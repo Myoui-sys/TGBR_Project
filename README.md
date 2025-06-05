@@ -16,7 +16,7 @@ Este projeto prioriza **acessibilidade**, **rapidez** e um **visual atraente** p
 > ✅ Este projeto foi concluído com sucesso como um experimento de responsividade.  
 > 🔄 Futuramente, poderá ser expandido com novas funcionalidades ou tecnologias.
 
-## 🌟 Pontos Fortes
+## 🌟 Características
 
 - ✅ **Design Responsivo:** Compatível com dispositivos móveis, tablets e desktops.
 - ⚡ **Performance Otimizada:** Estrutura leve e carregamento rápido.
